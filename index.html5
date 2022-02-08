@@ -1,0 +1,326 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>ILLEGAL_HL1</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="no-cache">
+    <meta name="robots" content="index, follow, noarchive">
+    <meta http-equiv="Expires" content="1d">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta name="robots" content="noindex, nofollow, noarchive">
+    <meta name="description" content="ILLEGAL_HL1">
+    <meta name="keywords" content="file upload,share files,free upload">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/379412873852/css/site.min.css?c49fd96c54dd560366ff857af838f3bb">
+    <link rel="icon" href="/favicon.ico?v=76349852036">
+    <script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script src="https://static.ads-twitter.com/uwt.js"></script>
+    <script src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha512-UDJtJXfzfsiPPgnI5S1000FPLBHMhvzAMX15I+qG2E2OAzC9P1JzUwJOfnypXiOH7MRPaqzhPbBGDNNj7zBfoA==" crossorigin="anonymous"></script>
+    <![endif]-->
+
+
+
+ 
+    <title>Wczytywanie... HIGH LEAGUE 1</title>
+</head>
+<body style="background:transparent; margin: 0; padding: 0;">
+        <a href="https://fightstreaming.github.io/HIGH-LEAGUE-ALWAYSILLEGAL/">
+            <button onclick="doSomething()" style="background-color:#333333;color:#00FF00;border-radius:5px">===============STRONA GŁÓWNA===============</button>
+        </a>
+        
+        <p id="test">HIGH LEAGUE 1</p>
+
+        <script>
+            function doSomething(){
+                document.getElementById("test").innerHTML = "Wyłączono High League 1";
+            }
+        </script>
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js" integrity="sha512-ubuT8Z88WxezgSqf3RLuNi5lmjstiJcyezx34yIU2gAHonIi27Na7atqzUZCOoY4CExaoFumzOsFQ2Ch+I/HCw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js" integrity="sha512-XKa9Hemdy1Ui3KSGgJdgMyYlUg1gM+QhL6cnlyTe2qzMCYm4nAZ1PsVerQzTTXzonUR+dmswHqgJPuwCq1MaAg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="preconnect" href="https://lashsketch.com">
+    <link rel="preconnect" href="https://cdn.plyr.io">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#000000">
+    <!-- IMPORTANT LEGAL AND COPYRIGHT NOTICES voe.sx/tos -->
+    <style>
+        html, body{
+            background: #000;
+            color: white;
+            text-align: center;
+        }
+        .playerOverlay{
+            text-align: center;
+            font-size: 1.7rem;
+            padding-top: 10%;
+        }
+        .cookieBanner{
+            display: none !important;
+        }
+    </style>
+
+<div id="sprite-plyr" hidden=""><!--?xml version="1.0" encoding="UTF-8"?--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol id="plyr-airplay" viewBox="0 0 18 18"><path d="M16 1H2a1 1 0 00-1 1v10a1 1 0 001 1h3v-2H3V3h12v8h-2v2h3a1 1 0 001-1V2a1 1 0 00-1-1z"></path><path d="M4 17h10l-5-6z"></path></symbol><symbol id="plyr-captions-off" viewBox="0 0 18 18"><path d="M1 1c-.6 0-1 .4-1 1v11c0 .6.4 1 1 1h4.6l2.7 2.7c.2.2.4.3.7.3.3 0 .5-.1.7-.3l2.7-2.7H17c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1H1zm4.52 10.15c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41C8.47 4.96 7.46 3.76 5.5 3.76c-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69zm7.57 0c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41c-.28-1.15-1.29-2.35-3.25-2.35-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69z" fill-rule="evenodd" fill-opacity=".5"></path></symbol><symbol id="plyr-captions-on" viewBox="0 0 18 18"><path d="M1 1c-.6 0-1 .4-1 1v11c0 .6.4 1 1 1h4.6l2.7 2.7c.2.2.4.3.7.3.3 0 .5-.1.7-.3l2.7-2.7H17c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1H1zm4.52 10.15c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41C8.47 4.96 7.46 3.76 5.5 3.76c-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69zm7.57 0c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41c-.28-1.15-1.29-2.35-3.25-2.35-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69z" fill-rule="evenodd"></path></symbol><symbol id="plyr-download" viewBox="0 0 18 18"><path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z"></path></symbol><symbol id="plyr-enter-fullscreen" viewBox="0 0 18 18"><path d="M10 3h3.6l-4 4L11 8.4l4-4V8h2V1h-7zM7 9.6l-4 4V10H1v7h7v-2H4.4l4-4z"></path></symbol><symbol id="plyr-exit-fullscreen" viewBox="0 0 18 18"><path d="M1 12h3.6l-4 4L2 17.4l4-4V17h2v-7H1zM16 .6l-4 4V1h-2v7h7V6h-3.6l4-4z"></path></symbol><symbol id="plyr-fast-forward" viewBox="0 0 18 18"><path d="M7.875 7.171L0 1v16l7.875-6.171V17L18 9 7.875 1z"></path></symbol><symbol id="plyr-logo-vimeo" viewBox="0 0 18 18"><path d="M17 5.3c-.1 1.6-1.2 3.7-3.3 6.4-2.2 2.8-4 4.2-5.5 4.2-.9 0-1.7-.9-2.4-2.6C5 10.9 4.4 6 3 6c-.1 0-.5.3-1.2.8l-.8-1c.8-.7 3.5-3.4 4.7-3.5 1.2-.1 2 .7 2.3 2.5.3 2 .8 6.1 1.8 6.1.9 0 2.5-3.4 2.6-4 .1-.9-.3-1.9-2.3-1.1.8-2.6 2.3-3.8 4.5-3.8 1.7.1 2.5 1.2 2.4 3.3z"></path></symbol><symbol id="plyr-logo-youtube" viewBox="0 0 18 18"><path d="M16.8 5.8c-.2-1.3-.8-2.2-2.2-2.4C12.4 3 9 3 9 3s-3.4 0-5.6.4C2 3.6 1.3 4.5 1.2 5.8 1 7.1 1 9 1 9s0 1.9.2 3.2c.2 1.3.8 2.2 2.2 2.4C5.6 15 9 15 9 15s3.4 0 5.6-.4c1.4-.3 2-1.1 2.2-2.4.2-1.3.2-3.2.2-3.2s0-1.9-.2-3.2zM7 12V6l5 3-5 3z"></path></symbol><symbol id="plyr-muted" viewBox="0 0 18 18"><path d="M12.4 12.5l2.1-2.1 2.1 2.1 1.4-1.4L15.9 9 18 6.9l-1.4-1.4-2.1 2.1-2.1-2.1L11 6.9 13.1 9 11 11.1zM3.786 6.008H.714C.286 6.008 0 6.31 0 6.76v4.512c0 .452.286.752.714.752h3.072l4.071 3.858c.5.3 1.143 0 1.143-.602V2.752c0-.601-.643-.977-1.143-.601L3.786 6.008z"></path></symbol><symbol id="plyr-pause" viewBox="0 0 18 18"><path d="M6 1H3c-.6 0-1 .4-1 1v14c0 .6.4 1 1 1h3c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1zm6 0c-.6 0-1 .4-1 1v14c0 .6.4 1 1 1h3c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1h-3z"></path></symbol><symbol id="plyr-pip" viewBox="0 0 18 18"><path d="M13.293 3.293L7.022 9.564l1.414 1.414 6.271-6.271L17 7V1h-6z"></path><path d="M13 15H3V5h5V3H2a1 1 0 00-1 1v12a1 1 0 001 1h12a1 1 0 001-1v-6h-2v5z"></path></symbol><symbol id="plyr-play" viewBox="0 0 18 18"><path d="M15.562 8.1L3.87.225c-.818-.562-1.87 0-1.87.9v15.75c0 .9 1.052 1.462 1.87.9L15.563 9.9c.584-.45.584-1.35 0-1.8z"></path></symbol><symbol id="plyr-restart" viewBox="0 0 18 18"><path d="M9.7 1.2l.7 6.4 2.1-2.1c1.9 1.9 1.9 5.1 0 7-.9 1-2.2 1.5-3.5 1.5-1.3 0-2.6-.5-3.5-1.5-1.9-1.9-1.9-5.1 0-7 .6-.6 1.4-1.1 2.3-1.3l-.6-1.9C6 2.6 4.9 3.2 4 4.1 1.3 6.8 1.3 11.2 4 14c1.3 1.3 3.1 2 4.9 2 1.9 0 3.6-.7 4.9-2 2.7-2.7 2.7-7.1 0-9.9L16 1.9l-6.3-.7z"></path></symbol><symbol id="plyr-rewind" viewBox="0 0 18 18"><path d="M10.125 1L0 9l10.125 8v-6.171L18 17V1l-7.875 6.171z"></path></symbol><symbol id="plyr-settings" viewBox="0 0 18 18"><path d="M16.135 7.784a2 2 0 01-1.23-2.969c.322-.536.225-.998-.094-1.316l-.31-.31c-.318-.318-.78-.415-1.316-.094a2 2 0 01-2.969-1.23C10.065 1.258 9.669 1 9.219 1h-.438c-.45 0-.845.258-.997.865a2 2 0 01-2.969 1.23c-.536-.322-.999-.225-1.317.093l-.31.31c-.318.318-.415.781-.093 1.317a2 2 0 01-1.23 2.969C1.26 7.935 1 8.33 1 8.781v.438c0 .45.258.845.865.997a2 2 0 011.23 2.969c-.322.536-.225.998.094 1.316l.31.31c.319.319.782.415 1.316.094a2 2 0 012.969 1.23c.151.607.547.865.997.865h.438c.45 0 .845-.258.997-.865a2 2 0 012.969-1.23c.535.321.997.225 1.316-.094l.31-.31c.318-.318.415-.781.094-1.316a2 2 0 011.23-2.969c.607-.151.865-.547.865-.997v-.438c0-.451-.26-.846-.865-.997zM9 12a3 3 0 110-6 3 3 0 010 6z"></path></symbol><symbol id="plyr-volume" viewBox="0 0 18 18"><path d="M15.6 3.3c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4C15.4 5.9 16 7.4 16 9c0 1.6-.6 3.1-1.8 4.3-.4.4-.4 1 0 1.4.2.2.5.3.7.3.3 0 .5-.1.7-.3C17.1 13.2 18 11.2 18 9s-.9-4.2-2.4-5.7z"></path><path d="M11.282 5.282a.909.909 0 000 1.316c.735.735.995 1.458.995 2.402 0 .936-.425 1.917-.995 2.487a.909.909 0 000 1.316c.145.145.636.262 1.018.156a.725.725 0 00.298-.156C13.773 11.733 14.13 10.16 14.13 9c0-.17-.002-.34-.011-.51-.053-.992-.319-2.005-1.522-3.208a.909.909 0 00-1.316 0zm-7.496.726H.714C.286 6.008 0 6.31 0 6.76v4.512c0 .452.286.752.714.752h3.072l4.071 3.858c.5.3 1.143 0 1.143-.602V2.752c0-.601-.643-.977-1.143-.601L3.786 6.008z"></path></symbol></svg></div>
+
+
+        <div class="balancing" data-amount="3" data-allow="1" data-limit="0"></div>
+
+
+        <script>
+            </script>
+
+
+
+    <script type="text/javascript" src="//lashsketch.com/4a/0c/19/4a0c19b0102707e35ee9c357b0b42199.js"></script>
+
+
+
+
+    <div style="position:relative; width: 100% !important; height: 100% !important;">
+        
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.15.0-alpha.2.0.canary.6250/hls.min.js" integrity="sha512-vQHBJslKNGHBbGmBwz5p4RENToG+fe53rklsBEhRL58py8qs+bXH0ro7MSNLxOzkGsY7GgQLTZdccmXjubtkiA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.12/plyr.min.js" integrity="sha512-KD7SjO7VUcKW975+6TGB/h/E//W8Pei+W9806myhzEwekQ9W82Ne5jUMa2JMVn+pqSICZDVnvckAhTUwfON+pA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.12/plyr.min.css" integrity="sha512-cDe2OuLwzNwBFIlDDHUbnu6XoAUmOIGY2fctiLCxgNPw4OdkWfPcbO+rJmJ4Ck71ZxVo0gB30hzKUqfQG0mvNg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+	<div tabindex="0" class="plyr plyr--full-ui plyr--video plyr--html5 plyr--fullscreen-enabled plyr__poster-enabled plyr--paused"><div class="plyr__controls"><button class="plyr__controls__item plyr__control" type="button" data-plyr="play" aria-label="Play"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-pause"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-play"></use></svg><span class="label--pressed plyr__tooltip">Pause</span><span class="label--not-pressed plyr__tooltip">Play</span></button><div class="plyr__controls__item plyr__progress__container"><div class="plyr__progress"><input data-plyr="seek" type="range" min="0" max="100" step="0.01" value="0" autocomplete="off" role="slider" aria-label="Seek" aria-valuemin="0" aria-valuemax="16202.4" aria-valuenow="0.833875" id="plyr-seek-3424" aria-valuetext="00:00 of 4:30:02" style="--value: 0.01%;" seek-value="13.013152942671548"><progress class="plyr__progress__buffer" min="0" max="100" value="0.12837604305535" role="progressbar" aria-hidden="true">% buffered</progress><span class="plyr__tooltip" style="left: 13.4402%;">36:17</span></div></div><div class="plyr__controls__item plyr__time--current plyr__time" aria-label="Current time">00:00</div><div class="plyr__controls__item plyr__time--duration plyr__time" aria-label="Duration">4:30:02</div><div class="plyr__controls__item plyr__volume"><button type="button" class="plyr__control" data-plyr="mute"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-muted"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-volume"></use></svg><span class="label--pressed plyr__tooltip">Unmute</span><span class="label--not-pressed plyr__tooltip">Mute</span></button><input data-plyr="volume" type="range" min="0" max="1" step="0.05" value="1" autocomplete="off" role="slider" aria-label="Volume" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100" id="plyr-volume-3424" aria-valuetext="100.0%" style="--value: 100%;"></div><button class="plyr__controls__item plyr__control" type="button" data-plyr="captions"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-captions-on"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-captions-off"></use></svg><span class="label--pressed plyr__tooltip">Disable captions</span><span class="label--not-pressed plyr__tooltip">Enable captions</span></button><div class="plyr__controls__item plyr__menu"><button aria-haspopup="true" aria-controls="plyr-settings-3424" aria-expanded="false" type="button" class="plyr__control" data-plyr="settings"><svg aria-hidden="true" focusable="false"><use xlink:href="#plyr-settings"></use></svg><span class="plyr__tooltip">Settings</span></button><div class="plyr__menu__container" id="plyr-settings-3424" hidden=""><div><div id="plyr-settings-3424-home"><div role="menu"><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true" hidden=""><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true" hidden=""><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div></div><div id="plyr-settings-3424-captions" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button><div role="menu"></div></div><div id="plyr-settings-3424-quality" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button><div role="menu"></div></div><div id="plyr-settings-3424-speed" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button><div role="menu"><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="0.5"><span>0.5×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="0.75"><span>0.75×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="true" value="1"><span>Normal</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.25"><span>1.25×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.5"><span>1.5×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.75"><span>1.75×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="2"><span>2×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="4"><span>4×</span></button></div></div></div></div></div><button class="plyr__controls__item plyr__control" type="button" data-plyr="fullscreen"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-exit-fullscreen"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-enter-fullscreen"></use></svg><span class="label--pressed plyr__tooltip">Exit fullscreen</span><span class="label--not-pressed plyr__tooltip">Enter fullscreen</span></button></div><div class="plyr__video-wrapper"><div tabindex="0" class="plyr plyr--full-ui plyr--video plyr--html5 plyr--fullscreen-enabled plyr--paused"><div class="plyr__controls"><button class="plyr__controls__item plyr__control" type="button" data-plyr="play" aria-label="Play"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-pause"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-play"></use></svg><span class="label--pressed plyr__tooltip">Pause</span><span class="label--not-pressed plyr__tooltip">Play</span></button><div class="plyr__controls__item plyr__progress__container"><div class="plyr__progress"><input data-plyr="seek" type="range" min="0" max="100" step="0.01" value="0" autocomplete="off" role="slider" aria-label="Seek" aria-valuemin="0" aria-valuemax="16202.4" aria-valuenow="11522.003583" id="plyr-seek-8176" aria-valuetext="3:12:02 of 4:30:02" style="--value: 71.11%;" seek-value="79.72650371083054"><progress class="plyr__progress__buffer" min="0" max="100" value="0.313632548264455" role="progressbar" aria-hidden="true">% buffered</progress><span class="plyr__tooltip" style="left: 79.1376%;">3:33:42</span></div></div><div class="plyr__controls__item plyr__time--current plyr__time" aria-label="Current time">3:12:02</div><div class="plyr__controls__item plyr__time--duration plyr__time" aria-label="Duration">4:30:02</div><div class="plyr__controls__item plyr__volume"><button type="button" class="plyr__control" data-plyr="mute"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-muted"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-volume"></use></svg><span class="label--pressed plyr__tooltip">Unmute</span><span class="label--not-pressed plyr__tooltip">Mute</span></button><input data-plyr="volume" type="range" min="0" max="1" step="0.05" value="1" autocomplete="off" role="slider" aria-label="Volume" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100" id="plyr-volume-8176" aria-valuetext="100.0%" style="--value: 100%;"></div><button class="plyr__controls__item plyr__control" type="button" data-plyr="captions"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-captions-on"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-captions-off"></use></svg><span class="label--pressed plyr__tooltip">Disable captions</span><span class="label--not-pressed plyr__tooltip">Enable captions</span></button><div class="plyr__controls__item plyr__menu"><button aria-haspopup="true" aria-controls="plyr-settings-8176" aria-expanded="false" type="button" class="plyr__control" data-plyr="settings"><svg aria-hidden="true" focusable="false"><use xlink:href="#plyr-settings"></use></svg><span class="plyr__tooltip">Settings</span></button><div class="plyr__menu__container" id="plyr-settings-8176" hidden=""><div><div id="plyr-settings-8176-home"><div role="menu"><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true" hidden=""><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true" hidden=""><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div></div><div id="plyr-settings-8176-captions" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button><div role="menu"></div></div><div id="plyr-settings-8176-quality" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button><div role="menu"></div></div><div id="plyr-settings-8176-speed" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button><div role="menu"><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="0.5"><span>0.5×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="0.75"><span>0.75×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="true" value="1"><span>Normal</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.25"><span>1.25×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.5"><span>1.5×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.75"><span>1.75×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="2"><span>2×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="4"><span>4×</span></button></div></div></div></div></div><button class="plyr__controls__item plyr__control" type="button" data-plyr="fullscreen"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-exit-fullscreen"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-enter-fullscreen"></use></svg><span class="label--pressed plyr__tooltip">Exit fullscreen</span><span class="label--not-pressed plyr__tooltip">Enter fullscreen</span></button></div><div class="plyr__video-wrapper"><video id="voe-player" playsinline="" crossorigin="anonymous" data-poster="https://delivery-node-umniyah.voe-network.net/i/01/00743/86czm658w15d.jpg" src="blob:null/d742332e-3333-413c-b7b7-e8f96a0995ed" width="940" height="529"></video><div class="plyr__poster"></div></div><div class="plyr__captions"></div><button type="button" class="plyr__control plyr__control--overlaid" data-plyr="play" aria-label="Play"><svg aria-hidden="true" focusable="false"><use xlink:href="#plyr-play"></use></svg><span class="plyr__sr-only">Play</span></button></div><div class="plyr__poster" style="background-image: url(&quot;https://delivery-node-umniyah.voe-network.net/i/01/00743/86czm658w15d.jpg&quot;);"></div></div><div class="plyr__captions"></div><button type="button" class="plyr__control plyr__control--overlaid" data-plyr="play" aria-label="Play"><svg aria-hidden="true" focusable="false"><use xlink:href="#plyr-play"></use></svg><span class="plyr__sr-only">Play</span></button></div>
+
+	
+			<div class="f7147256074646bc3b1786e4fc183390">
+				<h2 class="m-3 text-white text-center font-weight-bold">Attention! Ad blocking software detected!</h2>
+				<p class="m-3 text-white text-center h4">Please disable your adblocker &amp; reload this page to access this file.</p>
+				<p class="m-2 text-primary text-center h5">Advertising is necessary to keep this free.</p>
+				<div class="text-center">
+					<a onclick="javascript:location.reload();" class="btn btn-primary btn-lg">Reload</a>
+				</div>
+			</div>
+			<style>
+				.f7147256074646bc3b1786e4fc183390{
+					display: none;
+					position: absolute;
+					top: 0;
+					left: 0;
+					bottom: 0;
+					right: 0;
+					background: #000000d4;
+					z-index: 10000;
+					border: 10px solid #e2db00;
+				}
+			</style>
+			<script>
+				function f7147256074646bc3b1786e4fc183390(){
+					if(!(typeof google === 'object' && google.hasOwnProperty('ima')) ? 1 : 0) {
+						$('.f7147256074646bc3b1786e4fc183390').display(1);
+					}
+				}
+				f7147256074646bc3b1786e4fc183390();
+			</script>
+			<script>
+				function url_parameters() {
+					var e = location.search.substr(1) + location.hash, t = {};
+					return e.split(/&|#/).forEach((function (e) {
+						var i = e.split("=");
+						i.length < 2 || (t[i[0]] = decodeURIComponent(i[1]))
+					})), t
+				}
+
+				function insert_caption(e, t, i, n) {
+					var a = document.createElement("track");
+					if ("srclang" in a) {
+						a.kind = "captions", a.label = t, a.srclang = "su", a.src = e, a.default = n || !1;
+						var r = document.querySelector(".plyr-container video");
+						return i ? r.insertBefore(a, i) : r.appendChild(a), a
+					}
+				}
+
+				function remote_subtitle(){
+					var url_parameters = url_parameters();
+
+					if ("subtitle_json" in url_parameters) try {
+                		Xe(t.subtitle_json).then(
+                		   (
+                		       function (e) {
+									e.forEach((function (e) {
+										ot(e.src, e.label, null, e.default || !1)
+									}))
+                				}
+                			)
+                		).catch((function () {}))
+            		} catch (e) {}
+
+					for (var i = 1; ; ++i) {
+                		var n = url_parameters["c" + i + "_file"], a = url_parameters["c" + i + "_label"];
+                		if (!n || !a) break;
+                		var r = n;
+                		-1 == location.search.indexOf("directSRT=true") && (r = window.vidconfig.cors + "&url=" + btoa(n)), insert_caption(r, a, e, 1 == i)
+            		}
+				}
+			</script>
+		
+	<script>
+document.addEventListener('DOMContentLoaded', () => {
+		function e3f65599c9290e11014f9d5f3b877411(){
+  var adbStatus = !(typeof twttr === 'object' && twttr.hasOwnProperty('conversion')) ? 1 : 0;
+  $.get('https://voe.sx/dl?op=view&file_code=86czm658w15d&hash=3717292-185-120-1644329910-351feefeec84042725640367ad72ae26&embed=1&adb='+adbStatus, function(data) {} );
+}
+
+        function d04ad2e48229ae25a282e15c7c2f69a2(dea04c5949242bfd216e35def894b930){ dea04c5949242bfd216e35def894b930 = dea04c5949242bfd216e35def894b930.join(''); dea04c5949242bfd216e35def894b930 = dea04c5949242bfd216e35def894b930.split('').reverse().join(''); return atob(dea04c5949242bfd216e35def894b930); }
+        const sources = {
+            "hls": "https://delivery-node-umniyah.voe-network.net/hls/,6oarnugsrm33cszcr3d5bytqxof33mz7n2xiqrv2py37kzqjmno43463jtsa,.urlset/master.m3u8",
+            "video_height": 720,
+        };
+        const video = document.querySelector('#voe-player');
+        const defaultOptions = {
+            captions: {active: false, update: true, language: 'auto'},
+            controls: [
+                'play-large', 'play', 'progress',
+                'current-time', 'duration', 'mute', 'volume','captions',
+                'airplay', 'pip', 'settings', 'fullscreen'
+            ],
+            fullscreen: {iosNative: true},
+            tooltips: {controls: true, seek: true},
+            iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.12/plyr.svg'
+        };
+        var hls_config = {
+            autoStartLoad: false,
+            maxMaxBufferLength: 10*60,
+            maxBufferSize: 45*1000*1000,
+            debug: false,
+        };
+        sources["mp4"] = d04ad2e48229ae25a282e15c7c2f69a2(['==','AN','w1','mL','29','SY','zR','na','zY','DN','zQ','zb','u1','ma','xp','3a','3M','Te','wJ','jd','yF','Xa','4J','jb','3o','Xb','zM','jZ','vh','Xc','0l','nY','1Q','2M','yN','me','zN','2M','z0','mc','zd','Wd','uJ','XY','vZ','zL','0V','mb','us','mc','vd','Hd','l5','WL','l9','md','ug','WY','5l','mb','tV','XL','lR','2b','u1','Se','yV','md','px','WZ','k9','yL','6M','Hc','0R','Ha']);
+        if (!Hls.isSupported()) {
+            $(video).prop('preload','metadata');
+            video.src = sources.mp4;
+            var VOEPlayer = new Plyr(video, defaultOptions);
+        } else {
+            var VOEPlayer = new Plyr(video, defaultOptions);
+             const hls = new Hls(hls_config); 
+            hls.loadSource(sources.hls);
+            hls.attachMedia(video);
+            VOEPlayer.on('languagechange', () => {
+                setTimeout(() => hls.subtitleTrack = VOEPlayer.currentTrack, 50);
+            });
+            video.addEventListener('play', function() {
+                hls.startLoad();
+            }, {once: true});
+        }
+        window.VOEPlayer = VOEPlayer;
+
+        VOEPlayer.once('playing', function () {
+            setTimeout(function(){
+                e3f65599c9290e11014f9d5f3b877411();
+            }, 5*1000);
+        });
+    });
+	</script>
+
+    <script>
+    	function c74a68dfbd15fcd6f23a6b26879bc82e(){console.clear();var before=(new Date).getTime();debugger;var after=(new Date).getTime();if(after-before>200){document.write("");self.location.replace(window.location.protocol+window.location.href.substring(window.location.protocol.length))}else{before=null;after=null;delete before;delete after}setTimeout(c74a68dfbd15fcd6f23a6b26879bc82e,100)}c74a68dfbd15fcd6f23a6b26879bc82e();window.onload=function(){document.addEventListener("contextmenu",function(e){e.preventDefault()},false);document.addEventListener("keydown",function(e){if(e.ctrlKey&&e.shiftKey&&e.keyCode==73){disabledEvent(e)}if(e.ctrlKey&&e.shiftKey&&e.keyCode==74){disabledEvent(e)}if(e.keyCode==83&&(navigator.platform.match("Mac")?e.metaKey:e.ctrlKey)){disabledEvent(e)}if(e.ctrlKey&&e.keyCode==85){disabledEvent(e)}if(event.keyCode==123){disabledEvent(e)}},false);function disabledEvent(e){if(e.stopPropagation){e.stopPropagation()}else if(window.event){window.event.cancelBubble=true}e.preventDefault();return false}};setTimeout(function(){try{var t=["sandbox","hasAttribute","frameElement","data","indexOf","href","domain","","plugins","undefined","namedItem","Chrome PDF Viewer","object","createElement","onerror","type","application/pdf","setAttribute","style","visibility:hidden;width:0;height:0;position:absolute;top:-99px;","data:application/pdf;base64,JVBERi0xLg0KdHJhaWxlcjw8L1Jvb3Q8PC9QYWdlczw8L0tpZHNbPDwvTWVkaWFCb3hbMCAwIDMgM10+Pl0+Pj4+Pj4=","appendChild","body","removeChild","parentElement","/blocked?referer=","substring","referrer"];function e(){try{var e=window.location.ancestorOrigins;if(e[e.length-1].endsWith("ampproject.org"))return}catch(t){}setTimeout(function(){location[t[5]]="/blocked"},900),setTimeout(function(){try{ym(60896098,"reachGoal","sndbx-parasitism")}catch(t){}},500)}!function(e){try{if(window[t[2]][t[1]](t[0]))return void e()}catch(e){}if(0==location[t[5]][t[4]](t[3])||document[t[6]]!=t[7]){if(typeof navigator[t[8]]!=t[9]&&typeof navigator[t[8]][t[10]]!=t[9]&&null!=navigator[t[8]][t[10]](t[11])){var n=document[t[13]](t[12]);n[t[14]]=function(){e()},n[t[17]](t[15],t[16]),n[t[17]](t[18],t[19]),n[t[17]](t[3],t[20]),document[t[22]][t[21]](n),setTimeout(function(){n[t[24]][t[23]](n)},150)}}else e()}(e),function(){try{document.domain=document.domain}catch(t){try{if(-1!=t.toString().toLowerCase().indexOf("sandbox"))return!0}catch(t){}}return!1}()&&e(),function(){if(window.parent===window)return!1;try{var t=window.frameElement}catch(e){t=null}return null===t?""===document.domain&&"data:"!==location.protocol:t.hasAttribute("sandbox")}()&&e()}catch(t){console.clear()}},1e3);	</script>
+	<style>
+	@keyframes controls_animation {
+		0%, 85% {
+			opacity: 1;
+			transform: translateY(0)
+		}
+
+		100% {
+			opacity: 0;
+			transform: translateY(100%)
+		}
+	}
+	.plyr--video.plyr--hide-controls .plyr__controls {
+		animation-duration: 2.5s !important;
+		animation-name: controls_animation !important;
+	}
+	.plyr--video .plyr__controls {
+		transition: opacity .6s ease-in-out,transform .6s ease-in-out;
+	}
+	.plyr{
+		position: relative;
+		z-index: 1000;
+		width: 100%;
+		height: 100%;
+	}
+	:root {
+		--plyr-color-main: #2979ff;
+		--plyr-badge-border-radius: 2px;
+		--plyr-control-radius: 0px;
+		--plyr-tooltip-radius: 2px;
+		--plyr-control-icon-size: 22px;
+		--plyr-font-size-badge: 14px;
+		--plyr-font-size-small: 13px;
+		--plyr-menu-background: rgba(28,28,28,0.9);
+		--plyr-control-toggle-checked-background: rgba(255,255,255,.1);
+		--plyr-menu-color: #ffffff;
+		--plyr-progress-loading-size: 35px;
+		--plyr-font-size-base: 18px;
+		--plyr-font-size-small: 13px;
+		--plyr-font-size-large: 24px;
+		--plyr-font-size-xlarge: 29px;
+		--plyr-tab-focus-color: transparent;
+	}
+	.plyr__captions{
+		font-weight: 600;
+		text-shadow: 0 0px 7px rgba(0,0,0,.9);
+	}
+	button.plyr__control.plyr__control--overlaid{
+		height: 85.5px;
+		display: inline-block;
+		width: 78.3px;
+		border-radius: 0px;
+		background-repeat: no-repeat;
+		opacity: 1;
+		background: transparent;
+		background-image: url(/assets/379412873852/images/logos/voe-logo-2.svg) !important;
+		transition: transform .2s;
+	}
+	button.plyr__control.plyr__control--overlaid svg{
+		display: none;
+	}
+	button.plyr__control.plyr__control--overlaid:hover{
+		background: transparent;
+		transform: translate(-50%,-50%) scale(0.9);
+	}
+	.plyr--video .plyr__controls .plyr__control.plyr__tab-focus,
+	.plyr--video .plyr__controls .plyr__control:hover,
+	.plyr--video .plyr__controls .plyr__control[aria-expanded=true]{
+		opacity: 0.8;
+		color: #f7f7f7;
+		background: none;
+	}
+	.plyr--full-ui input[type='range']{
+  		min-width: 0;
+	}
+	</style>
+	
+    </div>
+
+
+
+
+<script type="text/javascript"></script>
+
+
+<script src="/assets/379412873852/js/site.min.js?c49fd96c54dd560366ff857af838f3bb"></script><div class="cookieBanner p-4 text-white"><p>We use Cookies to ensure that we give you the best experience on our website. Read our <a href="/privacy" style="border-bottom: 2px solid white;" target="_blank" class="text-white">Privacy Policy</a>.</p> <div class="btn btn-light text-uppercase" onclick="cookieCompliance();">I agree</div></div>
+    <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(60896098, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/60896098" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+</body></html>
